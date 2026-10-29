@@ -1,0 +1,6 @@
+A <- c(10, 20, 30, 40, 50)
+B <- c(2, 4, 5, 8, 10)
+print(A + B)
+print(A - B)
+print(A * B)
+print(A / B)
